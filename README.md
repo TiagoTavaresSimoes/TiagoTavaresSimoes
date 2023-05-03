@@ -13,9 +13,10 @@
 
 
 <div id="stats" style="display:flex;justify-content:center;align-items:center;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tiagotavaressimoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoTavaresSimoes&theme=dark&include_all_commits=false&count_private=true&layout=compact">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=tiagotavaressimoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoTavaresSimoes&theme=dark&include_all_commits=false&count_private=true&layout=compact">
 </div>
+
 
 
 
