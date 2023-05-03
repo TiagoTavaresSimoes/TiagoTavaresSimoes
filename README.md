@@ -14,8 +14,8 @@
 
 
 <div style="display:flex; flex-direction:row;">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tiagotavaressimoes&show_icons=true&locale=en&theme=dark" alt="tiagotavaressimoes" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagotavaressimoes&theme=dark" alt="tiagotavaressimoes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagotavaressimoes&show_icons=true&locale=en&theme=dark" alt="tiagotavaressimoes" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagotavaressimoes&theme=dark" alt="tiagotavaressimoes" />
 </div>
 
 
