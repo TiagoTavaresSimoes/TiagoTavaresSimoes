@@ -14,7 +14,7 @@
 
 <div id="stats" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagotavaressimoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22%3E">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagotavaressimoes&theme=dark&include_all_commits=false&count_private=true&layout=compact%22%3E">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoTavaresSimoes&theme=dark&include_all_commits=false&count_private=true&layout=compact">
 </div>
 
 
